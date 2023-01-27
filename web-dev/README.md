@@ -15,4 +15,4 @@
 
 |S.No|Project Name|Description|Demo|
 |---|---|---|---|
-|01.|[Dark Green Login Form](https://github.com/dev-mdirfan/dark-green-login-form.git)|An animated login form in dark green color.|![01-login-form](gifs/01-login-form.gif)|
+|01.|[Dark Green Login Form](https://github.com/dev-mdirfan/dark-green-login-form.git)|An animated login form in dark green color.|![01-login-form](gifs/01-login-form.gif) <img href='gifs/01-login-form.gif' width='400px' height='300px'>|
