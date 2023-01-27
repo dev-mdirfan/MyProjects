@@ -3,7 +3,7 @@
 > List of my all projects
 
 1. [Web Development](web-dev/)
-2. [Machine Learning](#)
+2. [Machine Learning](machine-learning/)
 
 ## [2. Machine Learning](#)
 
