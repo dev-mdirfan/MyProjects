@@ -1,6 +1,6 @@
 # MyProjects
 
-List of my all projects.
+> List of my all projects
 
 ## [1. Web Development Projects](web-dev/)
 
