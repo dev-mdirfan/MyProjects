@@ -1,0 +1,11 @@
+# Web Development Projects
+
+## 1. Sidebar Menu
+
+
+
+## 2. Profile Cards
+
+|S.No|Project Name|Description|Video|
+|---|---|---|---|
+|1.|[Animated Profile Card]()|An animated profile web page in which on hover it get opend and close.||
