@@ -8,4 +8,4 @@
 
 |S.No|Project Name|Description|Video|
 |---|---|---|---|
-|1.|[Animated Profile Card]()|An animated profile web page in which on hover it get opend and close.||
+|1.|[Animated Profile Card]()|An animated profile web page in which on hover it get opend and close.|![01.gif](gifs/01.animated-profile-card.gif)|
