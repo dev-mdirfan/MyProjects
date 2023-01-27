@@ -1,5 +1,7 @@
 # Web Development Projects
 
+> Note: These are the only HTML, CSS and JavaScript implementations i.e. FrontEnd.
+
 ## 1. Sidebar Menu
 
 
@@ -15,4 +17,4 @@
 
 |S.No|Project Name|Description|Demo|
 |---|---|---|---|
-|01.|[Dark Green Login Form](https://github.com/dev-mdirfan/dark-green-login-form.git)|An animated login form in dark green color.|<img href='gifs/01-login-form.gif' width='350px' height='200px'>|
+|01.|[Dark Green Login Form](https://github.com/dev-mdirfan/dark-green-login-form.git)|An animated login form in dark green color. Only |[![01-login-form](gifs/01-login-form.gif)](https://github.com/dev-mdirfan/dark-green-login-form.git)|
